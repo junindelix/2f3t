@@ -1,0 +1,36 @@
+body {
+    background-color: crimson;
+    color: darkgoldenrod;
+
+}
+
+.calculadora{
+    background-color: aqua;
+    padding: 8px;
+    width: 220px;
+    text-align: center;
+}
+
+.display_calc{
+    background-color: chocolate;
+    text-align: center;
+}   
+
+#resultado{
+    padding: 2px;
+    background-color: blueviolet;
+    color: bisque;
+    text-align: center;   
+}
+
+.button{
+    width: 40px;
+    height: 40px;
+    margin: 3px;
+
+}
+
+#btn_igual{
+    background-color: red;
+
+}
